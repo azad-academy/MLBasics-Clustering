@@ -1,4 +1,4 @@
-# ML Basics: Clustering
+# ML Basics: Clustering Methods
 
 <img src=cover.png width=500>
 
